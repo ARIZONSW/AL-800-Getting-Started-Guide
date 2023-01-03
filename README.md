@@ -1,1 +1,1 @@
-"# AL-800-Getting-Started-Guide" 
+This document describes how to connect RFID reader to IoT Cloud.
